@@ -1,7 +1,3 @@
 #EXTM3U
-#EXT-X-VERSION:3
-#EXT-X-PLAYLIST-TYPE:VOD
-#EXTINF:-1, Test
+#EXTINF:-1, Müge Anlı
 https://rr4---sn-4g5lznlz.googlevideo.com/videoplayback?expire=1730415562&ei=arcjZ9TiG8ODi9oP8P-3mQo&ip=217.93.68.106&id=o-AFRzq7R2FYvpyrixE_Nl174X5aSeQw90SRc6HWGAZfKd&itag=18&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&met=1730393962%2C&mh=aO&mm=31%2C26&mn=sn-4g5lznlz%2Csn-h0jeenld&ms=au%2Conr&mv=m&mvi=4&pl=26&rms=au%2Cau&gcr=de&initcwndbps=1703750&bui=AQn3pFT9Rm1zqy9cftcskHsAlnlaydjEQbB1CBdfGS0e_x2MTS7_cmt02LkyQzVDnj2i5IzCwNnUqxFh&spc=qtApAQ643ZYDwo_FeQWuWgulQTIIRVbwHEcNXdxc6jOqE8W6ykg_3I8sr7aGSZE&vprv=1&svpuc=1&mime=video%2Fmp4&ns=ADlqTv1GF_MVFGX_ouw__FQQ&rqh=1&gir=yes&clen=549406017&ratebypass=yes&dur=8128.005&lmt=1729771734907939&mt=1730393606&fvip=1&fexp=51312688%2C51326932&c=MWEB&sefc=1&txp=4438434&n=vxxU4uotPFBjuQ&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cgcr%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Cns%2Crqh%2Cgir%2Cclen%2Cratebypass%2Cdur%2Clmt&sig=AJfQdSswRQIgbJolFK04bGO8ivm7h9Jfbp0fIyrjlVmn5E76-jMOtDICIQDiwiVPoITLz5mYFlQ9CGuuZPxDUhn-qzbm5iBXf2YRKg%3D%3D&lsparams=met%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=ACJ0pHgwRQIgNOkygqU7S33NJy9vCcXLbZ5Uu2I0bZ3INlB-sVk7WrkCIQDvgDrFFdkOAmOphFmr-_myHob2D1Dbs9MlQhn6r8FGPQ%3D%3D
-#EXT-X-ENDLIST
-
